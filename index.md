@@ -2,6 +2,6 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Contact:
 
-And you can include links, like this [LinkedIn](https://www.linkedin.com/in/anchari). Posts will appear after this file. 
+My profile on [LinkedIn](https://www.linkedin.com/in/anchari)

@@ -2,6 +2,8 @@
 ## First post
 Body of the post
 
-$$ \sum_n (x) $$
+Schrodinger Equation:
+
+$$ i \hbar {{d \psi} \over {dt}} = H \psi $$
 
 end

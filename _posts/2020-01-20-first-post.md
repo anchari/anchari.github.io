@@ -7,3 +7,4 @@ Schrodinger Equation:
 $$ i \hbar {{d \psi} \over {dt}} = H \psi $$
 
 end
+ 

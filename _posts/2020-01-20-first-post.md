@@ -4,7 +4,7 @@ Body of the post
 
 Schrodinger Equation:
 
-$$ i {{d \psi} \over {dt}} = H \psi $$
+$$ y = x^7 $$
 
 end
  
